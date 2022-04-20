@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (3c8a3b81-65ae-40e2-8b57-6f2279873407)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.7xMULrKObS" local="$PROJECT_DIR$/polynomial-abucara" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/polynomial-abucara/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
